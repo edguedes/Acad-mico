@@ -1,0 +1,10 @@
+
+public class Sandero implements Carro {
+
+	@Override
+	public void exibirInfo() {
+		// TODO Auto-generated method stub
+		System.out.println("Modelo: Sandero\nFabricante: Renault");
+	}
+
+}
